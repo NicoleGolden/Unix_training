@@ -54,6 +54,3 @@ grep -n "women" 1342-0.txt
 
 # 2. When I get more familiar and comfortable with unix, I believe it could make my work more efficient. 
 # Instead of manually looking for clues, I could use unix to maintain all of the muntane tasks.  
-
-######## Thank you very much for the hard work. This lesson is excellent! --------
-# Qinqin Yin, PhD in Economics
